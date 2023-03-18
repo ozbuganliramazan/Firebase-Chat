@@ -7,4 +7,4 @@
 ### 4. Responsive Design: Application is optimized for all devices, with a modern, user-friendly design.
  ### 6-Data storage: All data is securely stored using Firebase, with automatic backups and disaster recovery.
  
- ![Watch the video]()
+ ![Watch the video](https://github.com/ozbuganliramazan/Firebase-Chat/blob/main/src/chat.gif)
